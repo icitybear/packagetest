@@ -1,0 +1,11 @@
+{
+    "name": "citybear/packagetest",
+    "description": "test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Citybear\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
